@@ -1,0 +1,30 @@
+c:\users\ange\documents\visual studio 2015\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+c:\users\ange\documents\visual studio 2015\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+c:\users\ange\documents\visual studio 2015\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+c:\users\ange\documents\visual studio 2015\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.xml
+c:\users\ange\documents\visual studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.vbprojResolveAssemblyReference.cache
+c:\users\ange\documents\visual studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form1.resources
+c:\users\ange\documents\visual studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Resources.resources
+c:\users\ange\documents\visual studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.vbproj.GenerateResource.Cache
+c:\users\ange\documents\visual studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+c:\users\ange\documents\visual studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.xml
+c:\users\ange\documents\visual studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+c:\users\ange\documents\visual studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.men.resources
+C:\Users\ange\Documents\Visual Studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.addem.resources
+C:\Users\ange\Documents\Visual Studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.emp.resources
+C:\Users\ange\Documents\Visual Studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.payroll.resources
+C:\Users\ange\Documents\Visual Studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.remem.resources
+C:\Users\ange\Documents\Visual Studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.stoview.resources
+C:\Users\ange\Documents\Visual Studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.adds.resources
+C:\Users\ange\Documents\Visual Studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.poss.resources
+C:\Users\ange\Documents\Visual Studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.sale.resources
+C:\Users\ange\Documents\Visual Studio 2015\Projects\InventorySystem\InventorySystem\bin\Debug\ippos.accdb
+C:\Users\ange\Documents\Visual Studio 2015\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.manifest
+C:\Users\ange\Documents\Visual Studio 2015\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.application
+C:\Users\ange\Documents\Visual Studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe.manifest
+C:\Users\ange\Documents\Visual Studio 2015\Projects\InventorySystem\InventorySystem\obj\Debug\InventorySystem.application
+C:\Users\nxcos\Desktop\codes\Payroll System\InventorySystem\obj\Debug\InventorySystem.vbproj.AssemblyReference.cache
+C:\Users\nxcos\Desktop\codes\Payroll System\InventorySystem\obj\Debug\InventorySystem.vbproj.SuggestedBindingRedirects.cache
+C:\Users\nxcos\Desktop\codes\Payroll System\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\nxcos\Desktop\codes\Payroll System\InventorySystem\obj\Debug\InventorySystem.xml
+C:\Users\nxcos\Desktop\codes\Payroll System\InventorySystem\obj\Debug\InventorySystem.pdb
